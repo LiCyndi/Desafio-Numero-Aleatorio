@@ -1,0 +1,3 @@
+- # Desafios Sobre as Aulas
+- Estes são os desafios que era para eu fazer, quase todos estão por nesse codigo
+- *Olhar o console, alguns resultados estão por la*
